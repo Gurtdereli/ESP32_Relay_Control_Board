@@ -1,0 +1,69 @@
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component C1 10nF
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component C2 10uF
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component C3 100nF
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component C4 10nF
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component C5 100nF
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component C6 2.2uF
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component C7 100nF
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component C8 2.2uF
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component C9 100nF
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component C10 100nF
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component D1 1N4007
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component D2 TVS DIODE
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component D3 LED
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component D4 LED
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component D5 1N4007
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component D6 LED
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component D7 1N4007
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component D8 LED
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component D9 1N4007
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component D10 LED
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component F1 500mA
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component J1 CONN-4
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component J2 CONN-4
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component J3 CONN-6
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component K1 Relay-SPDT
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component K2 Relay-SPDT
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component K3 Relay-SPDT
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component K4 Relay-SPDT
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component P1 Header 3
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component P2 Header 3
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component P3 Header 3
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component P4 Header 3
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component Q1 bc817-16
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component Q2 bc817-16
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component Q3 bc817-16
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component Q4 bc817-16
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component Q5 bc817-16
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component Q6 bc817-16
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R1 0
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R2 1K
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R3 0
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R4 100K
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R5 1K
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R6 1K
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R7 4K7
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R8 10K
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R9 1K
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R10 1K
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R11 4K7
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R12 4K7
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R13 4K7
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R14 10K
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R15 1K
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R16 1K
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R17 10K
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R18 4K7
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R19 1K
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R20 1K
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component R21 4K7
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component S1 pushbutton
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component S2 pushbutton
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component U1 LM1117
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component U2 PC817X1NIP1B
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component U3 CH340C
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component U4 ESP32-WROOM
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component U5 PC817X1NIP1B
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component U6 PC817X1NIP1B
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component U7 PC817X1NIP1B
+Added Member To Class: ClassName=ESP32_Control_Board Member=Component USB 1 USB MINI
